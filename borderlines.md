@@ -1,17 +1,14 @@
 Borderlines
 ===========
 
-Info
-----------
-
 Runtime: 3 minutes
+
 Tempo: 155 BPM
 
 Chords
 ------
 
-Dm Am Dm Am
-Gm Am Bb C
+| Dm | Am | Dm | Am | Gm | Am | Bb | C |
 
 Structure
 ---------
