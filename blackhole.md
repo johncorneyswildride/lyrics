@@ -8,16 +8,20 @@ Tempo: 90 BPM
 Chords
 ------
 
-Verse/Post-chorus: | Dm | F | Bb | A
+### Verse/Post-chorus
 
-Chorus: | Dm | Dm | G# | G
+| Dm | F | Bb | A
+
+### Chorus
+
+| Dm | Dm | G# | G
 
 Structure
 ---------
 
 | Length | Unit  | Section      | Comment                    |
 |--------|-------|--------------|----------------------------|
-| 4      | beats | count-in     |                            |
+| 4      | beats | count-in     | hats                       |
 | 2      | reps  | intro        |                            |
 | 4      | reps  | verse        | heavy transition to chorus |
 | 4      | reps  | chorus       | pauses in 1st and 3rd rep  |
