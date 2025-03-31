@@ -8,9 +8,9 @@ Tempo: 155 BPM
 Chords
 ------
 
-| Dm | Am | Dm | Am | Gm | Am | Bb | C
+| Dm | Am | Dm | Am | Gm\* | Am | Bb | C
 
-*\*play G in outro*
+\*play G in outro
 
 Structure
 ---------
