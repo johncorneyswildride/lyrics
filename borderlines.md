@@ -17,7 +17,7 @@ Structure
 
 | Length | Unit  | Section      | Comment           |
 |--------|-------|--------------|-------------------|
-| 4      | beats | count-in     |                   |
+| 4      | beats | count-in     | hats              |
 | 1      | reps  | intro        |                   |
 | 2      | reps  | verse        |                   |
 | 2      | reps  | chorus       |                   |
