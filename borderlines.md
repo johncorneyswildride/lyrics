@@ -10,7 +10,7 @@ Chords
 
 | Dm | Am | Dm | Am | Gm\* | Am | Bb | C
 
-\*play G in outro
+*\*G in outro*
 
 Structure
 ---------
