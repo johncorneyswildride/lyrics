@@ -1,5 +1,5 @@
 Candy Flip
-===========
+==========
 
 Runtime: 2 minutes
 
