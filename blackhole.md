@@ -8,7 +8,7 @@ Tempo: 90 BPM
 Chords
 ------
 
-### Verse/Post-chorus
+### Main
 
 | Dm | F | Bb | A
 
