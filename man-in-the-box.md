@@ -5,7 +5,7 @@ Runtime: 3 minutes
 
 Tempo: 110 BPM
 
-Cover of: Alice in Chains
+Note: cover of Alice in Chains
 
 Chords
 ------
