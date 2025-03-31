@@ -33,5 +33,5 @@ Structure
 | 1      | reps  | riff         |                            |
 | 2      | reps  | verse        |                            |
 | 4      | reps  | chorus       |                            |
-| 3      | reps  | bridge       | heavy transition to chorus |
+| 3      | reps  | bridge       | heavy transition to outro  |
 | 8      | reps  | outro        |                            |
