@@ -15,7 +15,7 @@ Chords
 Structure
 ---------
 
-| Length | Unit  | Section      | Comment           |
+| Length | Units | Section      | Notes             |
 |--------|-------|--------------|-------------------|
 | 4      | beats | count-in     | hats              |
 | 1      | reps  | intro        |                   |
