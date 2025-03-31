@@ -19,43 +19,43 @@ Chords
 Tabs
 ----
 
-### Ending V1
+### Main
 
 ```
-G
-D
-A        3-3
-D 0-0-3-3   6-5-3-
+G|----------------
+D|----------------
+A|-------3-3------
+D|0-0-3-3---6-5-3-
 ```
 
-### Ending V2
+### Chorus to Main
 
 ```
-G
-D
-A         3-
-D 0-0-3-3-  6-5-3-
+G|----------------
+D|----------------
+A|--------3-------
+D|0-0-3-3---6-5-3-
 ```
 
-### Ending V3
+### Outro
 
 ```
-G
-D
-A 3-      3-
-D   6-5-3-  6-5-3-
+G|----------------
+D|----------------
+A|3-------3-------
+D|--6-5-3---6-5-3-
 ```
 
 Structure
 ---------
 
-| Length | Units | Section      | Notes                        |
-|--------|-------|--------------|------------------------------|
-| 1      | reps  | count-in     | hats                         |
-| 4      | reps  | intro        | end v1                       |
-| 8      | reps  | verse        | silence every odd rep        |
-| 4      | reps  | chorus       | end v2                       |
-| 2      | reps  | post-chorus  | end v1                       |
-| 8      | reps  | verse        | silence every odd rep        |
-| 4      | reps  | chorus       | end v2                       |
-| 8      | reps  | outro        | end v3 every 4th rep         |
+| Length | Units | Section      | Notes                 |
+|--------|-------|--------------|-----------------------|
+| 1      | reps  | count-in     | hats                  |
+| 4      | reps  | intro        |                       |
+| 8      | reps  | verse        | silence every odd rep |
+| 4      | reps  | chorus       |                       |
+| 2      | reps  | post-chorus  |                       |
+| 8      | reps  | verse        | silence every odd rep |
+| 4      | reps  | chorus       |                       |
+| 8      | reps  | outro        |                       |
