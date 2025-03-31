@@ -14,7 +14,7 @@ Chords
 
 ### Chorus
 
-| Dm | Dm | G# | G
+| D5 | D5 | G#5 | G5
 
 Structure
 ---------
