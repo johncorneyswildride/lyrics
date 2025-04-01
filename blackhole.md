@@ -1,7 +1,7 @@
 Blackhole
 =========
 
-Runtime: 2.5 minutes
+Duration: 2.5 minutes
 
 Tempo: 90 BPM
 

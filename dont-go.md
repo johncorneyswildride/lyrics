@@ -1,7 +1,7 @@
 Don't Go
 ========
 
-Runtime: 3.5 minutes
+Duration: 3.5 minutes
 
 Tempo: 100 BPM
 

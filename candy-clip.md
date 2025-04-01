@@ -1,7 +1,7 @@
 Candy Flip
 ==========
 
-Runtime: 2 minutes
+Duration: 2 minutes
 
 Tempo: 210 BPM
 

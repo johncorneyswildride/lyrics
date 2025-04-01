@@ -1,7 +1,7 @@
 In the Rain
 ===========
 
-Runtime: 4 minutes
+Duration: 4 minutes
 
 Tempo: 54 BPM
 

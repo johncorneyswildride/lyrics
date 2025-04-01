@@ -1,7 +1,7 @@
 Man in the Box
 ==============
 
-Runtime: 3 minutes
+Duration: 3 minutes
 
 Tempo: 110 BPM
 

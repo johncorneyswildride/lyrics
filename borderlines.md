@@ -1,7 +1,7 @@
 Borderlines
 ===========
 
-Runtime: 3 minutes
+Duration: 3 minutes
 
 Tempo: 155 BPM
 

@@ -1,7 +1,7 @@
 Cat
 ===
 
-Runtime: 2 minutes
+Duration: 2 minutes
 
 Tempo: 145 BPM
 
