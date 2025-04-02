@@ -10,7 +10,7 @@ Chords
 
 ### Main
 
-| D5 | F5 | A5 | C5
+| D5 | F5 | G5 | Bb5
 
 ### Chorus
 
